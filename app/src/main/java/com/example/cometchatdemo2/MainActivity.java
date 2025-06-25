@@ -14,9 +14,9 @@ public class MainActivity extends ComponentActivity {
 
     private static final String TAG = "MainActivity";
 
-    private final String appID = "APP ID"; // Replace with your App ID
-    private final String region = "REGION"; // Replace with your App Region
-    private final String authKey = "AUTH KEY"; // Replace with your Auth Key
+    private final String appID = "2760132474c8eba9"; // Replace with your App ID
+    private final String region = "IN"; // Replace with your App Region
+    private final String authKey = "082fb30029649efaefac10cf0e16de213706092a"; // Replace with your Auth Key
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

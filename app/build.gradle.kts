@@ -45,4 +45,9 @@ dependencies {
 
     // (Optional) Include this if your app uses voice/video calling features
     implementation ("com.cometchat:calls-sdk-android:4.1.0")
+    implementation ("com.google.android.gms:play-services-location:21.0.1")
+    implementation ("com.github.bumptech.glide:glide:4.16.0")
+    annotationProcessor ("com.github.bumptech.glide:compiler:4.16.0")
+
+
 }

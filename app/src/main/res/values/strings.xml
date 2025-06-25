@@ -1,3 +1,6 @@
 <resources>
+
     <string name="app_name">CometChatDemo2</string>
+    <string name="google_maps_key"> AIzaSyB_S5OJN9cTdVKuKyRGEiHnyJVupgdwglQ</string>
+
 </resources>
