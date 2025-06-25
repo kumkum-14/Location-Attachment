@@ -199,7 +199,7 @@ public class MessageActivity extends AppCompatActivity {
         String mapUrl = "https://maps.googleapis.com/maps/api/staticmap?" +
                 "center=" + lat + "," + lng +
                 "&zoom=15&size=600x300&markers=color:red|" + lat + "," + lng +
-                "&key=AIzaSyB_S5OJN9cTdVKuKyRGEiHnyJVupgdwglQ"; // Replace with your actual key
+                " API KEY "; // Replace with your actual key
 
         JSONObject data = new JSONObject();
         try {
